@@ -40,7 +40,7 @@ html {
     transform: translate(-50%, -50%);
     white-space: nowrap;
     color: #f0f0f0;
-    letter-spacing: 5px;
+    letter-spacing: 25px;
     will-change: transform, opacity;
     z-index: 1;
 }
